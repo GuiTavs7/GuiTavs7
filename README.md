@@ -6,6 +6,52 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTavs7&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GuiTavs7&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=GuiTavs7&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/GuiTavs7/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
