@@ -2,15 +2,22 @@
 
 ### ⚙️ GitHub Analytics
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="145em" src="https://github-readme-stats.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTavs7&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTavs7&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
+</div>
+
+--- 
+
+### 📊 GitHub Streaks
+
+<div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiTavs7&theme=dark&hide_border=false" alt="Github Stats"/>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiTavs7&theme=tokyonight" alt="Github Stats"/>
     </a>
 </div>
 
