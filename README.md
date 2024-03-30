@@ -50,6 +50,8 @@
   />
 </p>
 
+---
+
 ### 👾 Tecnologias & Linguagens
 
 <div align="center" style="display: inline_block"><br>
