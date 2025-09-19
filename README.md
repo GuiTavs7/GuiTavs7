@@ -45,7 +45,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/GuiTavs7/count.svg"
+    src="https://visitor-badge.laobi.icu/badge?page_id=GuiTavs7"
     alt="Número de visitantes no perfil"
   />
 </p>
