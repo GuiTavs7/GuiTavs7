@@ -13,13 +13,15 @@
 
 --- 
 
+
 ### 📊 GitHub Streaks
 
-<div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiTavs7&theme=tokyonight" alt="Github Stats"/>
-    </a>
+<div align="center">
+  <a href="https://github.com/GuiTavs7">
+    <img height="180em" src="https://streak-stats.demolab.com?user=GuiTavs7&theme=tokyonight" alt="Github Streak"/>
+  </a>
 </div>
+
 
 --- 
 
