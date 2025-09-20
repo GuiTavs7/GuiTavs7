@@ -102,21 +102,21 @@
 
 ---
  
-  ###  👤 Contatos & Redes Sociais
+  ###  📬 Contatos, Redes Sociais & Currículo
  
 <div align="center"> 
- 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/guilherme-tavares-439238188/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/guilherme-tavares-439238188/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn"/>
 </a>
-<a href="https://linktr.ee/gui_tavs7" target="_blank">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+<a href="https://linktr.ee/gui_tavs7">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
 </a>
-<a href="https://docs.google.com/document/d/1nHm5fOoHPYLbhphsE5-MuTnwoF7aSio5IcfR2kqhmLg/edit?tab=t.0" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=google-docs&logoColor=white">
+<a href="https://docs.google.com/document/d/1nHm5fOoHPYLbhphsE5-MuTnwoF7aSio5IcfR2kqhmLg/edit?tab=t.0">
+  <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Currículo"/>
 </a>
 
 ---
