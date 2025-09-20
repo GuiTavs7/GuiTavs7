@@ -56,19 +56,50 @@
 
 ### 👾 Tecnologias & Linguagens
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="C" width="40" height="40" src="https://github.com/user-attachments/assets/4f1a13d3-88f6-4836-8d2a-e757f8f2ca34"/>
-  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Phyton" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
- 
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <span><b>HTML5</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <span><b>CSS3</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <span><b>JavaScript</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <span><b>React</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="C" height="50" width="50" src="https://github.com/user-attachments/assets/4f1a13d3-88f6-4836-8d2a-e757f8f2ca34"/>
+    <span><b>C</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="C++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <span><b>C++</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <span><b>Python</b></span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img alt="Arduino" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
+    <span><b>Arduino</b></span>
+  </div>
+
 </div>
- 
- <br>
+
 
 ---
  
