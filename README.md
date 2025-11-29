@@ -3,16 +3,15 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-    <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/GuiTavs7">
+        <img height="180em" src="https://gh-readme-stats-kappa.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
-    <a href="https://github.com/GuiTavs7" style="flex: 1;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTavs7&layout=compact&langs_count=6&theme=tokyonight"/>
+    <a href="https://github.com/GuiTavs7">
+        <img height="180em" src="https://gh-readme-stats-kappa.vercel.app/api/top-langs/?username=GuiTavs7&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
 </div>
 
 --- 
-
 
 ### 📊 GitHub Streaks
 
