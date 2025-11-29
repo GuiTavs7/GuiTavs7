@@ -2,7 +2,7 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="center">
     <a href="https://github.com/GuiTavs7" style="flex: 1;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
