@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/GuiTavs7">
-    <img height="180em" src="https://gh-readme-stats-kappa.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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"/>
+    <img height="180em" src="https://gh-readme-stats-kappa.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
 --- 
 
