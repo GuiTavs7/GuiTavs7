@@ -2,31 +2,24 @@
 
 ### ⚙️ GitHub Analytics
 
-<!-- CARD: Resumo geral -->
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiTavs7&theme=tokyonight" />
-</div>
-
-<!-- CARD: Principais linguagens -->
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiTavs7&theme=tokyonight" />
-</div>
-
-<!-- CARD: Linguagens mais usadas -->
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiTavs7&theme=tokyonight" />
-</div>
-
-<!-- CARD: Commits -->
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiTavs7&theme=tokyonight" />
-</div>
-
-<!-- SEU STREAKS NORMAL -->
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=GuiTavs7&theme=tokyonight" />
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiTavs7&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiTavs7&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiTavs7&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiTavs7&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 --- 
 
