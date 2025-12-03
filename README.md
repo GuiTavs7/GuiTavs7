@@ -2,12 +2,10 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center">
+<!-- Stats -->
   <a href="https://github.com/GuiTavs7">
-    <img height="180em" src="https://gh-readme-stats-kappa.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiTavs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-</div>
-
 
 --- 
 
