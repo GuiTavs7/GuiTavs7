@@ -8,6 +8,8 @@
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiTavs7&theme=tokyonight" />
     </td>
   </tr>
+</table>
+<table align="center">
   <tr>
     <td>
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiTavs7&theme=tokyonight" />
