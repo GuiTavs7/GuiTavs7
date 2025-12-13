@@ -25,33 +25,6 @@
 
 --- 
 
-### 📊 GitHub Streaks
-
-<div align="center">
-  <a href="https://github.com/GuiTavs7">
-    <img height="180em" src="https://streak-stats.demolab.com?user=GuiTavs7&theme=tokyonight" alt="Github Streak"/>
-  </a>
-</div>
-
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=GuiTavs7&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
 <div>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
