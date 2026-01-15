@@ -57,6 +57,10 @@
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
       <br><b>React</b>
     </td>
