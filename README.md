@@ -67,6 +67,14 @@
   </tr>
   <tr>
     <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.JS"/>
+      <br><b>Node.JS</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="130">
       <img src="https://github.com/user-attachments/assets/4f1a13d3-88f6-4836-8d2a-e757f8f2ca34" width="50" height="50" alt="C"/>
       <br><b>C</b>
     </td>
@@ -77,10 +85,6 @@
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
       <br><b>Python</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
-      <br><b>Arduino</b>
     </td>
   </tr>
 </table>
