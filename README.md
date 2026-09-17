@@ -40,16 +40,18 @@
 
 ### 👾 Tecnologias & Linguagens
 
+#### 🎨 Front-end
+
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
       <br><b>HTML5</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
       <br><b>CSS3</b>
     </td>
     <td align="center" width="130">
@@ -65,14 +67,27 @@
       <br><b>React</b>
     </td>
   </tr>
+</table>
+
+</div>
+
+#### ⚙️ Back-end
+
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.JS"/>
-      <br><b>Node.JS</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+      <br><b>Node.js</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-      <br><b>MySQL</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
+      <br><b>Express</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+      <br><b>Python</b>
     </td>
     <td align="center" width="130">
       <img src="https://github.com/user-attachments/assets/4f1a13d3-88f6-4836-8d2a-e757f8f2ca34" width="50" height="50" alt="C"/>
@@ -82,15 +97,29 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
       <br><b>C++</b>
     </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      <br><b>Python</b>
-    </td>
   </tr>
 </table>
 
 </div>
 
+#### 🗄️ Banco de dados
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+      <br><b>MongoDB</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
  
