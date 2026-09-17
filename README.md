@@ -82,10 +82,6 @@
       <br><b>Node.js</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
-      <br><b>Express</b>
-    </td>
-    <td align="center" width="130">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
       <br><b>Python</b>
     </td>
